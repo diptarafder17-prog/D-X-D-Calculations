@@ -2,6 +2,8 @@
 
 # Application name
 title = D X D Calculations
+# Application logo
+img link <rel> = "https://photos.app.goo.gl/hg2mUkZ2gDYpMqeM6"
 
 # Package name
 package.name = dxdcalculations
